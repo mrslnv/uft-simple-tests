@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xls',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\nakache\\code\\uft-simple-tests\\Solution1\\Test1\\Res2',namePairs:[]}]};

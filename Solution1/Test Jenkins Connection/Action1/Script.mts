@@ -1,0 +1,3 @@
+﻿Browser("Dashboard [Jenkins]").Page("Manage Jenkins [Jenkins]").Link("Configure System").Click @@ hightlight id_;_Browser("Dashboard [Jenkins]").Page("Manage Jenkins [Jenkins]").Link("Configure System")_;_script infofile_;_ZIP::ssf10.xml_;_
+Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Connect").Click @@ hightlight id_;_Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Connect")_;_script infofile_;_ZIP::ssf11.xml_;_
+Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Save").Click @@ hightlight id_;_Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Save")_;_script infofile_;_ZIP::ssf12.xml_;_

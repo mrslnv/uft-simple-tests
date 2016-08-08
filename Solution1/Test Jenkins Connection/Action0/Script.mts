@@ -1,1 +1,1 @@
-﻿RunAction "OpenConfiguration", oneIteration
+﻿RunAction "OpenConfiguration", oneIteration, Parameter("ngaURL")

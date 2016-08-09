@@ -2,6 +2,6 @@
 	<Test name="test1" path="${WORKSPACE}\Solution1\Test1">
   	</Test>
 	<Test name="Test Jenkins Connection"  path="${WORKSPACE}\Solution1\Test Jenkins Connection">
-	    	<Parameter name="ngaURL" value="http://myd-vm25044.hpeswlab.net:8081/ui/?p=1001/1002#/pipeline-management/1001/live" type="String"/>
+	    	<Parameter name="ngaURL" value="https://sandbox.nextgenalm.com/ui/?admin&p=1001/1008#/settings/workspace/build-servers" type="String"/>
   	</Test>
 </Mtbx>

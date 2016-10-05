@@ -1,0 +1,7 @@
+<Mtbx>
+	<Test name="test1" path="c:\UFT\uft-simple-tests\Solution1\Test1">
+  	</Test>
+	<Test name="Test Jenkins Connection"  path="c:\UFT\uft-simple-tests\Solution1\Test Jenkins Connection">
+	    	<Parameter name="ngaURL" value="http://myd-vm25044.hpeswlab.net:8081/ui/?p=1001/1002#/pipeline-management/" type="String"/>
+  	</Test>
+</Mtbx>

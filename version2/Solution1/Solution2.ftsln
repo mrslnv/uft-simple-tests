@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.1.3.0
+Project("") = "Test Jenkins Connection", "Test Jenkins Connection\Test.tsp", "C2694C73-52C4-475E-A549-15BE124ABFE9"
+	ProjectSection(ProjectMetadata) = HP.UFT.ProjectSystem.Dynamic.ProjectMetadata
+		PathInformation = C:\UFT\uft-simple-tests\Solution1\Test Jenkins Connection\Test.tsp
+		Keyword = QTP
+		OpenAsReadOnly = False
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		C2694C73-52C4-475E-A549-15BE124ABFE9.Debug|Any CPU.Build.0 = Debug|Any CPU
+		C2694C73-52C4-475E-A549-15BE124ABFE9.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		C2694C73-52C4-475E-A549-15BE124ABFE9.Release|Any CPU.Build.0 = Release|Any CPU
+		C2694C73-52C4-475E-A549-15BE124ABFE9.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+<Mtbx>
+	<Test name="test1" path="${WORKSPACE}\Solution1\Test1">
+  	</Test>
+	<Test name="test1" path="${WORKSPACE}\Sanity\BasicSanity">
+  	</Test>
+	<Test name="test1" path="${WORKSPACE}\Regression\BasicRegression">
+  	</Test>
+	<Test name="Test Jenkins Connection"  path="${WORKSPACE}\Solution1\Test Jenkins Connection">
+	    	<Parameter name="ngaURL" value="http://myd-vm25044.hpeswlab.net:8081/ui/?p=1001/1002#/pipeline-management/" type="String"/>
+  	</Test>
+</Mtbx>

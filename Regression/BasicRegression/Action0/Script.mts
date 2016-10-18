@@ -1,1 +1,2 @@
-﻿RunAction "Action1", oneIteration
+﻿RunAction "Prepare", oneIteration
+RunAction "Action1", oneIteration

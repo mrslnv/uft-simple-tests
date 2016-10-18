@@ -3,6 +3,8 @@
   	</Test>
 	<Test name="test1" path="${WORKSPACE}\Sanity\BasicSanity">
   	</Test>
+	<Test name="test1" path="${WORKSPACE}\Regression\AdvancedScenarios">
+  	</Test>
 	<Test name="test1" path="${WORKSPACE}\Regression\BasicRegression">
   	</Test>
 	<Test name="Test Jenkins Connection"  path="${WORKSPACE}\Solution1\Test Jenkins Connection">

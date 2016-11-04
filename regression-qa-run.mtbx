@@ -1,4 +1,5 @@
 <Mtbx>
+   <!-- tests to run -->
 	<Test name="test1" path="${WORKSPACE}\Solution1\Test1">
   	</Test>
 	<Test name="test1" path="${WORKSPACE}\Sanity\BasicSanity">

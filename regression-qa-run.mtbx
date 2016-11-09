@@ -9,6 +9,6 @@
 	<Test name="test1" path="${WORKSPACE}\Regression\BasicRegression">
   	</Test>
 	<Test name="Test Jenkins Connection"  path="${WORKSPACE}\Solution1\Test Jenkins Connection">
-	    	<Parameter name="ngaURL" value="http://myd-vm25044.hpeswlab.net:8081/ui/?p=1001/1002#/pipeline-management/" type="String"/>
+	    	<Parameter name="ngaURL" value="https://sandbox.nextgenalm.com/ui/?p=1001/1003#/pipeline-management/1016/overview?navFilter=%7B%7D" type="String"/>
   	</Test>
 </Mtbx>

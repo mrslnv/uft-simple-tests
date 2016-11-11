@@ -11,4 +11,4 @@ Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Con
 'wait 10
 'Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebElement("tag:=div")
 'Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebElement("innertext:=.*Connection successful.*")
-Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Save").Click
+'Browser("Dashboard [Jenkins]").Page("Configure System [Jenkins]").WebButton("Save").Click
